@@ -1,0 +1,1 @@
+Randomly displays a joke, press a button to display another joke.
